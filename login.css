@@ -1,0 +1,155 @@
+body {
+  background-image: url("netflix.jpg");
+  background-size: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.box {
+  margin: auto;
+  width: 450px;
+  height: 660px;
+  padding: 10px;
+  background-color: #000000bf;
+  border-radius: 2px;
+  text-align: center;
+}
+.inputbox {
+  font-family: Netflix Sans;
+  font-size: 16px;
+  width: 314px;
+  height: 50px;
+  border: #000;
+  padding-left: 16px;
+  background-color: #333333;
+  border-radius: 5px;
+}
+.inputbox2 {
+  font-family: Netflix Sans;
+  font-size: 16px;
+  margin-top: 16px;
+  width: 314px;
+  height: 50px;
+  border: #000;
+  padding-left: 16px;
+  background-color: #333333;
+  border-radius: 5px;
+}
+
+.sign {
+  font-family: Netflix Sans;
+  font-weight: 800;
+  margin-right: 210px;
+}
+.button {
+  font-family: Netflix Sans;
+  font-size: 10px;
+  font-weight: 200;
+  margin-top: 40px;
+  margin-left: 65px;
+  color: white;
+  text-align: center;
+  width: 314px;
+  height: 50px;
+  padding-left: 8px;
+  background-color: #e50914;
+  border-radius: 5px;
+}
+.butxt {
+  padding-top: 13px;
+  font-family: Netflix Sans;
+  font-size: 16px;
+  font-weight: 600;
+}
+.chbx {
+  position: absolute;
+  margin-top: 1px;
+  font-family: Netflix Sans;
+  font-size: 13px;
+  font-weight: 400;
+  color: #b3b3b3;
+  top: 420px;
+  right: 906px;
+}
+.rmr {
+  position: absolute;
+  margin-top: 1px;
+  font-family: Netflix Sans;
+  font-size: 13px;
+  font-weight: 400;
+  color: #b3b3b3;
+  top: 419px;
+  left: 612px;
+}
+.needhelp {
+  position: absolute;
+  margin-top: 1px;
+  font-family: Netflix Sans;
+  font-size: 13px;
+  font-weight: 400;
+  text-decoration: none;
+  color: #b3b3b3;
+  top: 419px;
+  right: 595px;
+}
+.newto {
+  position: absolute;
+  margin-top: 1px;
+  font-family: Netflix Sans;
+  font-size: 16px;
+  font-weight: 400;
+  color: #737373;
+  top: 515px;
+  right: 807px;
+}
+.signup {
+  position: absolute;
+  margin-top: 1px;
+  font-family: Netflix Sans;
+  font-size: 16px;
+  font-weight: 400;
+  color: white;
+  top: 515px;
+  right: 716px;
+}
+.dot {
+  position: absolute;
+  margin-top: 1px;
+  font-family: Netflix Sans;
+  font-size: 16px;
+  font-weight: 400;
+  color: #737373;
+  text-decoration: none;
+  top: 515px;
+  right: 712px;
+}
+.bot1 {
+  position: absolute;
+  margin-top: 1px;
+  font-family: Netflix Sans;
+  font-size: 13px;
+  font-weight: 400;
+  color: #8c8c8c;
+  top: 574px;
+  right: 632px;
+}
+.bot2 {
+  position: absolute;
+  margin-top: 1px;
+  font-family: Netflix Sans;
+  font-size: 13px;
+  font-weight: 400;
+  color: #8c8c8c;
+  top: 589px;
+  right: 783px;
+}
+.learnmore {
+  position: absolute;
+  margin-top: 1px;
+  font-family: Netflix Sans;
+  font-size: 13px;
+  font-weight: 400;
+  color: #0080ff;
+  text-decoration: none;
+  top: 589px;
+  right: 711px;
+}

@@ -1,0 +1,85 @@
+body {
+  background-image: url("netflix.jpg");
+  background-size: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.unlimited {
+  position: absolute;
+  font-family: Netflix Sans;
+  font-weight: 600;
+  text-align: center;
+  font-size: 64px;
+  top: 187px;
+  right: 445px;
+}
+.shows {
+  position: absolute;
+  font-family: Netflix Sans;
+  font-weight: 600;
+  text-align: center;
+  font-size: 64px;
+  top: 248px;
+  right: 512px;
+}
+.watch {
+  position: absolute;
+  font-family: Netflix Sans;
+  font-weight: 600;
+  text-align: center;
+  font-size: 26px;
+  top: 382px;
+  right: 563px;
+}
+.ready {
+  position: absolute;
+  font-family: Netflix Sans;
+  font-weight: 600;
+  text-align: center;
+  font-size: 19.2px;
+  top: 446px;
+  right: 451px;
+}
+.button {
+  position: absolute;
+  font-family: Netflix Sans;
+  font-size: 16px;
+  font-weight: 200;
+  color: white;
+  text-align: center;
+  width: 84.19px;
+  height: 34px;
+  background-color: #e50914;
+  border-radius: 3px;
+  top: 21px;
+  right: 72px;
+  text-decoration: none;
+}
+.inputbox {
+  position: absolute;
+  font-family: Netflix Sans;
+  font-size: 16px;
+  width: 500px;
+  height: 70px;
+  border: #000;
+  padding-left: 16px;
+  background-color: #ffffff;
+  border-radius: 3px;
+  top: 500px;
+  right: 632px;
+}
+.button2 {
+  position: absolute;
+  font-family: Netflix Sans;
+  font-size: 38px;
+  font-weight: 200;
+  color: white;
+  width: 245.43px;
+  height: 70px;
+  background-color: #e50914;
+  border-radius: 3px;
+  top: 476px;
+  right: 383px;
+  text-align: center;
+  text-decoration: none;
+}
